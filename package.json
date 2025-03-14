@@ -1,13 +1,13 @@
 {
   "name": "tsoding-theme",
-  "publisher": "JoaoAJMatos",
+  "publisher": "Invi",
   "displayName": "Tsoding Theme",
   "description": "A dark theme based on Tsoding's Emacs theme for VSCode",
   "version": "1.2.0",
   "icon": "icons/tsoding.jpg",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JoaoAJMatos/Tsoding-Color-Theme"
+    "url": "https://github.com/jjaroztegi/Tsoding-Color-Theme"
   },
   "license": "MIT",
   "engines": {
